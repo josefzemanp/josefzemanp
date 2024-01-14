@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a 16 year old student and developer from the Czech Republic.</p>
+<p align="center">I'm a 16 year old student and developer from the Czech Republic.</p>
 
 ###
 

@@ -4,6 +4,8 @@
 
 <p align="center">I'm an 19-year-old student and developer from the Czech Republic.</p>
 
+
+
 ###
 
 <div align="center">
@@ -16,6 +18,10 @@
   <a href="https://www.linkedin.com/in/josef-zeman-8b9545275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://gitlab.com/josefzemanp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo" />
+  </a>
+  
 </div>
 
 ###
